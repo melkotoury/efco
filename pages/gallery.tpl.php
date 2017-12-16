@@ -1,4 +1,3 @@
-<?php require_once('inc/header.tpl.php');  ?>
 
 	
 	<!-- Page Heading Section Start -->	
@@ -235,4 +234,3 @@
 	</div>
 	<!-- All Patner Section End -->
 	
-<?php require_once('inc/footer.tpl.php);'?>
