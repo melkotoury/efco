@@ -77,21 +77,21 @@
     </footer>
     <!-- Footer Section End -->
     <!-- Scripts Js Start -->
-    <script src="js/jquery-2.2.4.min.js"></script>
-    <script src="js/bootstrap.min.js"></script>
-    <script src="js/imagesloaded.pkgd.min.js"></script>
-    <script src="js/isotope.pkgd.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="js/owl.animate.js"></script>
-    <script src="js/jquery.scrollUp.min.js"></script>
-    <script src="js/jquery.counterup.min.js"></script>
-    <script src="js/modernizr.min.js"></script>
-    <script src="js/jquery.magnific-popup.min.js"></script>
-    <script src="js/wow.min.js"></script>
-    <script src="js/waypoints.min.js"></script>
-    <script src="js/jquery.meanmenu.min.js"></script>
-    <script src="js/jquery.sticky.js"></script>
-    <script src="js/custom.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery-2.2.4.min.js"></script>
+    <script src="<?= JS_DIR;  ?>bootstrap.min.js"></script>
+    <script src="<?= JS_DIR;  ?>imagesloaded.pkgd.min.js"></script>
+    <script src="<?= JS_DIR;  ?>isotope.pkgd.min.js"></script>
+    <script src="<?= JS_DIR;  ?>owl.carousel.min.js"></script>
+    <script src="<?= JS_DIR;  ?>owl.animate.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.scrollUp.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.counterup.min.js"></script>
+    <script src="<?= JS_DIR;  ?>modernizr.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.magnific-popup.min.js"></script>
+    <script src="<?= JS_DIR;  ?>wow.min.js"></script>
+    <script src="<?= JS_DIR;  ?>waypoints.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.meanmenu.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.sticky.js"></script>
+    <script src="<?= JS_DIR;  ?>custom.js"></script>
     <!-- Scripts Js End -->
 </body>
 

@@ -8,7 +8,7 @@
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta name="description" content="ConstructPro - Building Company HTML5 Responsive Template">
     <meta name="keywords" content="building company, construction, construction company, constructor, contractor, corporate, engineering, handyman, industry, painter, real estate, architecture, builder, company">
-    <meta name="author" content="The Theme Pond">
+    <meta name="author" content="Root Cave">
     <!-- Title -->
     <title>Efco - Construction Company </title>
     <!-- Favicon Icon -->
@@ -27,15 +27,15 @@
 
     <!-- Stylesheets Start -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto:400,500,700" rel="stylesheet">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/font-awesome.min.css">
-    <link rel="stylesheet" href="css/owl.carousel.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/animate.css">
-    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>bootstrap.min.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>font-awesome.min.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>owl.carousel.min.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>magnific-popup.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>animate.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR; ?>/main.css">
     <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="css/meanmenu.min.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>meanmenu.min.css">
+    <link rel="stylesheet" href="<?=  CSS_DIR;  ?>responsive.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -84,7 +84,4 @@
         </div>
         <!-- Header Top End -->
         
-       <?php include_once('nav.tpl.php'); ?>
       
-         </header>
-    <!-- Header End -->
