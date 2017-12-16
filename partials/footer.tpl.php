@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-md-4 col-sm-6">
                         <div class="footer-wedget-one">
-                            <a href="index-2.html"><img src="img/logo.png" alt="" /></a>
+                            <a href="index.php"><img src="<?= IMG_DIR;  ?>logo.png" alt="" /></a>
                             <p>Lorem ipsum dolor sit amet, nulla fermentum, mollis ac lectus nulla, vel neque, risus non nunc duis lectus, ac id porttitor vulputate donec sed. Et commodo, turpis porttitor ligula maecenas luctus lorem. Lobortis </p>
                             <div class="footer-social-profile">
                                 <ul>

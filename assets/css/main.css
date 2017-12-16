@@ -53,9 +53,9 @@ a:focus {
   outline: 0px solid;
 }
 img {
-  /* max-width: 100%; */
-  /* height: auto; */
-  width: 108px;
+  max-width: 100%;
+  height: auto;
+  /* width: 108px; */
 }
 p {
   margin: 0 0 22px;
@@ -240,6 +240,11 @@ background-color:#28344a;
 	transform: skewX(-48deg);
 	width: 2000px;
 	z-index: -1;
+}
+
+.logo img{
+	width:100px;
+	height:auto;
 }
 .main-menu ul {
 float : right;
@@ -1140,7 +1145,7 @@ top: 6px;
 }
 .code-text::before {
 	color: #bebaba;
-	content: "ï„";
+	content: "ÃƒÂ¯Ã¢â‚¬Å¾Ã‚Â";
 	font-family: fontawesome;
 	font-size: 30px;
 	left: 20px;
@@ -1426,7 +1431,7 @@ font-style: italic;
 }
 .client-comment::before {
 color: #f8ba00;
-content: "ï„";
+content: "ÃƒÂ¯Ã¢â‚¬Å¾Ã‚Â";
 font-family: fontawesome;
 font-size: 150px;
 left: 20px;
