@@ -6,10 +6,10 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="page-heading">
-						<h1>Our Service</h1>
+						<h1>Our Projects</h1>
 						<ul>
 							<li><a href="index-2.html">Home</a></li>
-							<li><a href="#">Our Service</a></li>
+							<li><a href="#">Our Projects</a></li>
 						</ul>						
 					</div>					
 				</div>				

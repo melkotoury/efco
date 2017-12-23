@@ -15,7 +15,7 @@
                                     <ul>
                                         <li class="active"><a href="index.php">Home</a></li>
                                         <li><a href="gallery.php">Gallery</a></li>
-                                        <li><a href="service.php">Service</a></li>
+                                        <li><a href="project.php">Projects</a></li>
 <!--
                                         <li><a href="service.php">Service<i class="fa fa-caret-down"></i></a>
                                             <ul class="submenu">
@@ -25,7 +25,7 @@
                                         </li>
 -->
                                         <li><a href="about.php">About</a></li>
-                                        <li><a href="employees.php">employees</a></li>
+<!--                                        <li><a href="employees.php">employees</a></li>-->
 <!--
                                         <li><a href="blog.php">Blog<i class="fa fa-caret-down"></i></a>
                                             <ul class="submenu">
