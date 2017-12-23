@@ -25,10 +25,10 @@
 			<div class="row">								
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p1.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p1.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p1.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p1.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 1</h3>
 							</div>
 						</div>
@@ -36,10 +36,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p2.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p2.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p2.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p2.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 2</h3>
 							</div>
 						</div>
@@ -47,10 +47,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p3.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p3.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p3.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p3.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 3</h3>
 							</div>
 						</div>
@@ -58,10 +58,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p4.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p4.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p4.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p4.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 4</h3>
 							</div>
 						</div>
@@ -69,10 +69,10 @@
 				</div>					
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p1.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p1.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p1.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p1.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 1</h3>
 							</div>
 						</div>
@@ -80,10 +80,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p2.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p2.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p2.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p2.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 2</h3>
 							</div>
 						</div>
@@ -91,10 +91,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p3.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p3.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p3.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p3.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 3</h3>
 							</div>
 						</div>
@@ -102,10 +102,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p4.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p4.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p4.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p4.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 4</h3>
 							</div>
 						</div>
@@ -114,10 +114,10 @@
 			
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p5.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p5.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p5.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p5.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 5</h3>
 							</div>
 						</div>
@@ -125,10 +125,10 @@
 				</div>	
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p6.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p6.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p6.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p6.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 6</h3>
 							</div>
 						</div>
@@ -136,10 +136,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p7.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p7.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p7.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p7.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 7</h3>
 							</div>
 						</div>
@@ -147,10 +147,10 @@
 				</div>					
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p8.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p8.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p8.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p8.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 8</h3>
 							</div>
 						</div>
@@ -158,10 +158,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p5.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p5.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p5.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p5.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 5</h3>
 							</div>
 						</div>
@@ -169,10 +169,10 @@
 				</div>	
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p6.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p6.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p6.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p6.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 6</h3>
 							</div>
 						</div>
@@ -180,10 +180,10 @@
 				</div>				
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p7.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p7.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p7.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p7.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 7</h3>
 							</div>
 						</div>
@@ -191,10 +191,10 @@
 				</div>					
 				<div class="col-md-3 col-sm-6  inner">
 					<div class="item">
-						<img src="img/p8.jpg" alt="" />
+						<img src="<?= IMG_DIR;  ?>p8.jpg" alt="" />
 						<div class="project-hoverlay">
 							<div class="project-text">
-								<a href="img/p8.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
+								<a href="<?= IMG_DIR;  ?>p8.jpg" class="gallery-photo"><i class="fa fa-expand"></i></a>
 								<h3>Photo 8</h3>
 							</div>
 						</div>
@@ -211,22 +211,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>

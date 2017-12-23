@@ -25,7 +25,7 @@
 					<div class="media">	
 						<div class="single-post">	
 							<div class="blog-classic-img">
-								<img src="img/news1.jpg" alt=""/>
+								<img src="<?= IMG_DIR;  ?>news1.jpg" alt=""/>
 								<div class="blog-classic-overlay">
 									<ul>
 										<li><a href="blog-details.html"><i class="fa fa-unlink"></i></a></li>
@@ -51,7 +51,7 @@
 					<div class="media">	
 						<div class="single-post">	
 							<div class="blog-classic-img">
-								<img src="img/news2.jpg" alt=""/>
+								<img src="<?= IMG_DIR;  ?>news2.jpg" alt=""/>
 								<div class="blog-classic-overlay">
 									<ul>
 										<li><a href="blog-details.html"><i class="fa fa-unlink"></i></a></li>
@@ -77,7 +77,7 @@
 					<div class="media">	
 						<div class="single-post">	
 							<div class="blog-classic-img">
-								<img src="img/news3.jpg" alt=""/>
+								<img src="<?= IMG_DIR;  ?>news3.jpg" alt=""/>
 								<div class="blog-classic-overlay">
 									<ul>
 										<li><a href="blog-details.html"><i class="fa fa-unlink"></i></a></li>
@@ -126,7 +126,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r1.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r1.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -142,7 +142,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r2.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r2.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -158,7 +158,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r3.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r3.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -199,22 +199,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>

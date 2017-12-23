@@ -24,7 +24,7 @@
 			<div class="row">			
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
 					<div class="abt-img">
-						<img src="img/service1.jpg" alt=""/>
+						<img src="<?= IMG_DIR;  ?>service1.jpg" alt=""/>
 					</div>
 				</div>				
 				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
@@ -53,7 +53,7 @@
 				<div class="service-item">
 					<div class="col-md-4 col-sm-6">
 						<div class="service-inner">
-							<div class="service-img" style="background-image: url('img/s1.jpg'); background-size: cover; background-position: center center;">
+							<div class="service-img" style="background-image: url('<?= IMG_DIR;  ?>s1.jpg'); background-size: cover; background-position: center center;">
 							</div>						
 							<div class="service-details">						
 								<h2><a href="service-details.html">Repair service <span><i class="fa fa-clone"></i></span></a></h2>
@@ -64,7 +64,7 @@
 					</div>					
 					<div class="col-md-4 col-sm-6">
 						<div class="service-inner">
-							<div class="service-img" style="background-image: url('img/s2.jpg'); background-size: cover; background-position: center center;">
+							<div class="service-img" style="background-image: url('<?= IMG_DIR;  ?>s2.jpg'); background-size: cover; background-position: center center;">
 							</div>						
 							<div class="service-details">						
 								<h2><a href="service-details.html">Construction Management <span><i class="fa fa-th-large"></i></span></a></h2>
@@ -75,7 +75,7 @@
 					</div>					
 					<div class="col-md-4 col-sm-6">
 						<div class="service-inner">
-							<div class="service-img" style="background-image: url('img/s3.jpg'); background-size: cover; background-position: center center;">
+							<div class="service-img" style="background-image: url('<?= IMG_DIR;  ?>s3.jpg'); background-size: cover; background-position: center center;">
 							</div>						
 							<div class="service-details">						
 								<h2><a href="service-details.html">Apartment Design <span><i class="fa fa-industry"></i></span></a></h2>
@@ -96,22 +96,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>

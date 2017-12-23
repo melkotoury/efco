@@ -646,6 +646,7 @@
     </div>
     <!-- Appointment Area End -->
     <!-- Blog Section Start -->
+<!--
     <div class="blog-sec pt-100 pb-80">
         <div class="container">
             <div class="row">
@@ -717,6 +718,7 @@
             </div>
         </div>
     </div>
+-->
     <!-- Blog Section End -->
 
     <!-- All Patner Section Start -->

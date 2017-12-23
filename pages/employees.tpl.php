@@ -25,7 +25,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -43,7 +43,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm3.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm3.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -61,7 +61,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm2.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm2.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -79,7 +79,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -97,7 +97,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm3.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm3.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -115,7 +115,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm4.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm4.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -133,7 +133,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm2.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm2.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -151,7 +151,7 @@
 				<div class="col-md-3 col-sm-4 col-xs-12">
 					<div class="team-member">
 						<div class="team-thumb">
-							<img src="img/tm4.jpg" alt=""/>
+							<img src="<?= IMG_DIR;  ?>tm4.jpg" alt=""/>
 							<div class="team-overlay">
 								<ul>
 									<li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -177,22 +177,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>

@@ -78,22 +78,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>

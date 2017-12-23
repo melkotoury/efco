@@ -28,6 +28,7 @@
     <!-- Stylesheets Start -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600|Roboto:400,500,700" rel="stylesheet">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>bootstrap.min.css">
+<!--    <link rel="stylesheet" href="//cdn.rawgit.com/morteza/bootstrap-rtl/v3.3.4/dist/css/bootstrap-rtl.min.css">-->
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>font-awesome.min.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>owl.carousel.min.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>magnific-popup.css">
@@ -36,6 +37,8 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>meanmenu.min.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>responsive.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/css/bootstrap-select.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -43,6 +46,29 @@
 	  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 	  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 	<![endif]-->
+	
+    <script src="<?= JS_DIR;  ?>jquery-2.2.4.min.js"></script>
+    <script src="<?= JS_DIR;  ?>bootstrap.min.js"></script>
+    <script src="<?= JS_DIR;  ?>imagesloaded.pkgd.min.js"></script>
+    <script src="<?= JS_DIR;  ?>isotope.pkgd.min.js"></script>
+    <script src="<?= JS_DIR;  ?>owl.carousel.min.js"></script>
+    <script src="<?= JS_DIR;  ?>owl.animate.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.scrollUp.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.counterup.min.js"></script>
+    <script src="<?= JS_DIR;  ?>modernizr.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.magnific-popup.min.js"></script>
+    <script src="<?= JS_DIR;  ?>wow.min.js"></script>
+    <script src="<?= JS_DIR;  ?>waypoints.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.meanmenu.min.js"></script>
+    <script src="<?= JS_DIR;  ?>jquery.sticky.js"></script>
+    <script src="<?= JS_DIR;  ?>custom.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/js/bootstrap-select.min.js"></script>
+    <script>
+        $(function(){
+            $('.selectpicker').selectpicker();
+        });
+    </script>
+
 </head>
 
 
@@ -65,7 +91,12 @@
                             <ul>
                                 <li><i class="fa fa-comment-o"></i> 24x7 live Support</li>
                                 <li><i class="fa fa-phone"></i>(888) 010203-4567</li>
-                                <li><i class="fa fa-comment"></i>Live Chat</li>
+                                <li>
+                                    <select class="selectpicker" data-width="fit">
+                                        <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
+                                        <option  data-content='<span class="flag-icon flag-icon-eg"></span> العربية'>Arabic</option>
+                                    </select>
+                                </li>
                             </ul>
                         </div>
                     </div>

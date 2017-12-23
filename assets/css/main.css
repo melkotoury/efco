@@ -145,7 +145,7 @@ width: 100%;
 #preloader-status {
     height: 210px;
 	width: 210px;
-    background: url(../img/preloader.gif);
+    background: url('../../img/preloader.gif');
     background-repeat: no-repeat;
     background-position: center;
     margin: -100px 0 0 -100px;
@@ -701,7 +701,7 @@ margin-bottom: 10px;
 .project-gallery-bg::after {
 	position: absolute;
 	content: "";
-	background-image: url(../img/gallary_sec_bg.png);
+	background-image: url("../../img/gallary_sec_bg.png");
 	width: 200px;
 	height: 200px;
 	top: -230px;
@@ -714,7 +714,7 @@ margin-bottom: 10px;
 ============================*/
 .call-to-action-sec{
 background: #f8ba00 none repeat scroll 0 0;
-background-image: url("../img/call_to_action_bg.jpg");
+background-image: url("../../img/call_to_action_bg.jpg");
 background-position: center center;
 background-repeat: no-repeat;
 background-size: cover;
@@ -1498,7 +1498,7 @@ width: 16px;display:inline-block
 16.Page Heading Section
 ==========================*/
 .pagehding-sec {
-	background-image: url("../img/pg_hd.jpg");
+	background-image: url("../../img/pg_hd.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	padding: 50px 0;
@@ -1620,7 +1620,7 @@ transition-delay: .5s; }
 .testimonial-text.expert-team::before {
 	position: absolute;
 	content: "";
-	background-image: url(../img/team_sec_bg.png);
+	background-image: url(../../img/team_sec_bg.png);
 	width: 100%;
 	height: 100%;
 	top: 0;
@@ -1643,7 +1643,7 @@ color: #292929;
 }
 .about-sec {
 	background: #f8ba00 none repeat scroll 0 0;
-	background-image: url("../img/call_to_action_bg.jpg");
+	background-image: url("../../img/call_to_action_bg.jpg");
 	background-position: center center;
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -1838,7 +1838,7 @@ padding-left: 0;
 20.Footer Section 
 ======================*/
 footer {
-  background: #f8ba00 url("../img/slide2.jpg") no-repeat scroll center center / cover ;
+  background: #f8ba00 url("../../img/slide2.jpg") no-repeat scroll center center / cover ;
   position: relative;
 }
 .footer-overlay{
@@ -1987,7 +1987,7 @@ text-transform: capitalize;
 21.Appoitment Section
 ============================*/
 .appoitment-area {
-background-image: url("../img/appoitment.jpg");
+background-image: url("../../img/appoitment.jpg");
 background-position: center center;
 background-repeat: no-repeat;
 background-size: cover;

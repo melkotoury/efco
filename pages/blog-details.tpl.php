@@ -25,7 +25,7 @@
 					<div class="media">	
 						<div class="single-post">	
 							<div class="blog-classic-img">
-								<img src="img/news1.jpg" alt=""/>
+								<img src="<?= IMG_DIR;  ?>news1.jpg" alt=""/>
 							</div>							
 							<div class="media-body">
 								<div class="single-post-text">
@@ -57,14 +57,14 @@
 							<div class="commentar-sec">
 								<h2>2 comment</h2>
 								<div class="media">
-								  <img class="d-flex mr-3" src="img/commentar_1.jpg" alt="">
+								  <img class="d-flex mr-3" src="<?= IMG_DIR;  ?>commentar_1.jpg" alt="">
 								  <div class="media-body">
 									<h3 class="comment-author">khaleda zia <span class="replay-button"><a href="#">reply</a></span></h3>
 									<h4 class="comment-time">10 h ago</h4>		
 									<p>Lorem ipsum dolor sit amet, luctus posuere semper felis consectetuer hendrerit, enim varius enim, tellus tincidunt tellus est sed mattis, libero elit mi suscipit. A nulla venenatis  </p>    
 									<div class="media mt-3">
 									  <a class="d-flex pr-3" href="#">
-										<img src="img/commentar_2.jpg" alt="">
+										<img src="<?= IMG_DIR;  ?>commentar_2.jpg" alt="">
 									  </a>
 									  <div class="media-body">
 										<h3 class="comment-author">hera rahman<span class="replay-button"><a href="#">reply</a></span></h3>
@@ -124,7 +124,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r1.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r1.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -140,7 +140,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r2.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r2.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -156,7 +156,7 @@
 								<div class="media">										
 									<div class="relative-post">								
 										<div class="relative-post-thumb">
-											<img src="img/r3.jpg" alt=""/>
+											<img src="<?= IMG_DIR;  ?>r3.jpg" alt=""/>
 										</div>
 										<div class="media-body">
 											<div class="single_r_dec">
@@ -197,22 +197,22 @@
 			<div class="row">				
 				<div class="all-patner">
 					<div class="single-patner">
-						<img src="img/patner1.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner1.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner4.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner4.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner3.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner3.png" alt=""/>
 					</div>					
 					<div class="single-patner">
-						<img src="img/patner2.png" alt=""/>
+						<img src="<?= IMG_DIR;  ?>patner2.png" alt=""/>
 					</div>
 				</div>
 			</div>
