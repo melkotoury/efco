@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html dir="ltr" lang="en">
 
@@ -37,7 +38,6 @@
     <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>meanmenu.min.css">
     <link rel="stylesheet" href="<?=  CSS_DIR;  ?>responsive.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/css/bootstrap-select.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/flag-icon-css/0.8.2/css/flag-icon.min.css">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -62,12 +62,7 @@
     <script src="<?= JS_DIR;  ?>jquery.meanmenu.min.js"></script>
     <script src="<?= JS_DIR;  ?>jquery.sticky.js"></script>
     <script src="<?= JS_DIR;  ?>custom.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.6.2/js/bootstrap-select.min.js"></script>
-    <script>
-        $(function(){
-            $('.selectpicker').selectpicker();
-        });
-    </script>
+
 
 </head>
 
@@ -92,10 +87,29 @@
                                 <li><i class="fa fa-comment-o"></i> 24x7 live Support</li>
                                 <li><i class="fa fa-phone"></i>(888) 010203-4567</li>
                                 <li>
-                                    <select class="selectpicker" data-width="fit">
-                                        <option data-content='<span class="flag-icon flag-icon-us"></span> English'>English</option>
-                                        <option  data-content='<span class="flag-icon flag-icon-eg"></span> العربية'>Arabic</option>
-                                    </select>
+                                    <?php
+                                    if ($_SESSION['lang'] == 'en'){
+
+
+                                        ?>
+                                        <a href="?lang=ar">
+                                        <span class="flag-icon flag-icon-eg"> </span>  <span class="lang"> العربية</span>
+                                        </a>
+
+                                        <?php
+
+                                    }
+                                      else {
+
+                                          ?>
+                                          <a href="?lang=en">
+                                          <span class="flag-icon flag-icon-us"> </span>  <span class="lang">English</span>
+                                          </a>
+                                          <?php
+
+                                      }
+                                    ?>
+
                                 </li>
                             </ul>
                         </div>
