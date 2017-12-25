@@ -84,7 +84,7 @@
                     <div class="col-md-8 col-sm-8">
                         <div class="hd-lft">
                             <ul>
-                                <li><i class="fa fa-comment-o"></i> 24x7 live Support</li>
+                                <li><i class="fa fa-email"></i> 24x7 live Support</li>
                                 <li><i class="fa fa-phone"></i>(888) 010203-4567</li>
                                 <li>
                                     <?php
